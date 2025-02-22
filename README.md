@@ -1,3 +1,3 @@
 # my-repo
 これはテストリポジトリです。
-update_my-repoで更新。
+update-my-repoで更新。
