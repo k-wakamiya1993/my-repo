@@ -11,7 +11,7 @@ concurrency:
 jobs:
   lint:
     runs-on: ubuntu-latest
-    time-out-minutes: 5
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - run: |
